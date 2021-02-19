@@ -1,1 +1,1 @@
-# instagold
+# GBInsta
